@@ -10,7 +10,7 @@ public class GoogleBillboard {
 		println(dNum);
 		} 
 		} 
-	
+	}
 
 	//Finish this function
 	public boolean isPrime(double num){
