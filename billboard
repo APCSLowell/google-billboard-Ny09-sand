@@ -6,7 +6,7 @@ void setup(){
    for ( int i = 1 ;  i < digits.length() - 11 ; i ++ ) { 
      origin = Double.parseDouble(digits.substring(i,i+10)) ; 
      if (prime(origin)==true){
-       println("prime is" + origin); 
+       println(  origin); 
        break ;
      } 
   }
